@@ -7,6 +7,7 @@ React로 만든 가방·의류 쇼핑몰 프로젝트입니다.
 
 <!-- 메인 화면 스크린샷을 넣으세요: ![H-Bag-Shop 메인 화면](./screenshot.png) -->
 
+<img width="800" height="1845" alt="hbagshop-main" src="https://github.com/user-attachments/assets/bf02cdb6-0f26-4b27-bafa-0b87ec4d0282" />
 
 
 ## 프로젝트 소개
