@@ -33,7 +33,7 @@ React로 만든 가방·의류 쇼핑몰 프로젝트입니다.
 
 - **Framework** : React
 - **Build Tool** : Vite
-- **Style** : SCSS, css
+- **Style** : SCSS, CSS
 - **Deploy** : GitHub Pages
 
 ## 폴더 구조
